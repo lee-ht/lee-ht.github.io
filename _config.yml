@@ -25,7 +25,7 @@ title:                 개발 창고
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  배운 내용을 기억하기 위한 블로그
+  기억하기 위한 블로그
 
 # A shorter description for the sidebar.
 tagline:               Python, AI, Web
@@ -48,14 +48,16 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
-    url:               /blog/
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
-  - title:             About
-    url:               /about/
+  - title:             Python
+    url:               /python/
+  - title:             Project
+    url:               /project/
+  # - title:             Example
+  #   url:               /example/
+  # - title:             Documentation
+  #   url:               /docs/
+  # - title:             About
+  #   url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
