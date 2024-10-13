@@ -1,8 +1,8 @@
 ---
 layout: list
-title: python
-slug: python
+title: django
+slug: django
 description: >
-  파이썬
+  Django
 sitemap: false
 ---
