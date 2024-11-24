@@ -1,14 +1,21 @@
 ---
 layout: post
-title: python-django
+title: Websocket disconnect
 description: >
-  example post
+  Websocket 연결이 끊기는 문제
 sitemap: false
 categories:
-  - python
   - django
+  - error
 hide_last_modified: true
 ---
+
+
+~~~python
+def test():
+  print('test')
+
+~~~
 
 
 

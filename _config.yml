@@ -25,7 +25,7 @@ title:                 develop blog
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  기억하기 위한 블로그
+   위한 블로그
 
 # A shorter description for the sidebar.
 tagline:               Python, AI, Web
@@ -48,11 +48,11 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Python
-    url:               /python/
+  - title:             Django
+    url:               /django/
     submenu:
-      - title:         Django
-        url:           /django/
+      - title:         Error
+        url:           /error/
   - title:             Project
     url:               /project/
   # - title:             Example

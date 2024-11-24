@@ -1,8 +1,8 @@
 ---
 layout: list
-title: python
-slug: python
+title: error
+slug: error
 description: >
-  파이썬
+  에러
 sitemap: false
 ---
