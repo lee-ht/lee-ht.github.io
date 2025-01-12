@@ -3,11 +3,9 @@ layout: post
 title: Websocket disconnect
 description: >
   Websockets client 연결 끊김
-sitemap: false
 categories:
   - python
   - websocket
-hide_last_modified: true
 ---
 
 파이썬 Websockets 라이브러리에서 
