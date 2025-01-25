@@ -1,5 +1,9 @@
 ---
 ---
 
-{% include header.html title="Title" %}
-<div>{{content}}</div>
+{% include side_menu.html %}
+
+<div>
+  {% include header.html title="Title" %}
+  <p>{{content}}</p>
+</div>
