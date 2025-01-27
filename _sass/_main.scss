@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+.side-menu {
+  width: 250px;
+  height: 100vh;
+  position: sticky;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0;
+
+  li {
+    height: 30px;
+    margin: 10px;
+    a {
+      display: block;
+      color: #333;
+    }
+  }
+}
+
+.content {
+  flex-grow: 1;
+  padding: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .side-menu {
+    width: 100%;
+  }
+}
