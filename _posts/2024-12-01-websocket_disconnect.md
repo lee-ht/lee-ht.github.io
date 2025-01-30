@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Websocket disconnect
-description: >
-  Websockets client 연결 끊김
 categories:
   - python
   - websocket

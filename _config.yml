@@ -27,6 +27,11 @@ url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site, e.g.
 twitter_username: ""
 github_username: lee-ht
 
+category_list:
+  - python
+  - django
+  - websocket
+
 # Build settings
 # theme: minima
 plugins:
